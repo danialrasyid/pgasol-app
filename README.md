@@ -50,5 +50,5 @@ Pastikan Anda sudah menginstal **Node.js** dan **MySQL Server** di perangkat kom
 
 ### 1. Kloning Repositori Proyek
 ```bash
-git clone [https://github.com/USERNAME_ANDA/REPOS_ANDA.git](https://github.com/USERNAME_ANDA/REPOS_ANDA.git)
+git clone [https://github.com/danialrasyid/pgasol-app](https://github.com/danialrasyid/pgasol-app)
 cd pgasol-app
